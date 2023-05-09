@@ -13,5 +13,11 @@ To install depedencies for this app you should run the npm install command insid
 npm install
 ```
 
-### Step 3: MongoDB Running
+### Step 3: Start Application
+To start your todo server, run this command in the root directory of your application:
+```bash
+npm run dev
+```
+
+### Step 4: MongoDB Running
 Ensure you have instance of mongoDB database running on your local environment.
