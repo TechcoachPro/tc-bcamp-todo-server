@@ -21,3 +21,17 @@ npm run dev
 
 ### Step 4: MongoDB Running
 Ensure you have instance of mongoDB database running on your local environment.
+
+
+## About Us
+
+[Techcoach](https://techcoach.pro) is a web development coaching platform aimed at raising world class software developers across the globe.
+
+### Contact
+To learn more about us, contact us using the following handle:
+
+- **[Techcoach.pro](https://techcoach.pro/) - Website**
+- **[Instagram.com](https://instagram.com/techcoach.pro) - Instagram**
+- **[jeffery@techcoach.pro](mailto:jeffery@techcoach.pro) - Email**
+
+Subscribe to our [Youtube](https://www.youtube.com/channel/UCs6rn-keO-4tZ0hWMXGzPvw) channel to get more updates on new projects we will be working on.
